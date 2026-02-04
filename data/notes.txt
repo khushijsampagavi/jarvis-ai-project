@@ -1,0 +1,4 @@
+Cloud computing provides on-demand resources.
+Kubernetes is used for container orchestration.
+AWS offers EC2, S3 and RDS services.
+Artificial intelligence automates human-like tasks.
